@@ -1,0 +1,72 @@
+table.tb {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+    border-color:indianred;
+    color: black;
+    padding: 5px;
+    width: 100%;
+}
+
+.tb th {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+    border-color:black;
+    color: darkred;
+    padding: 5px;
+    font-family: fantasy;
+    
+}
+
+.menutxt {
+	text-align: center;
+}
+
+.item {
+	border: none;
+}
+
+.header{
+	font-size: xx-large;
+}
+
+.img{
+	width: 200px;
+}
+
+.title {
+	color: black;
+	text-align: center;
+	font-size: 100px;
+	font-weight: lighter;
+	padding: 10px;
+	text-align: left;
+
+}
+
+.button {
+  background-color: #04AA6D; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid darkred;
+}
+
+.button3:hover {
+  background-color: darkred;
+  color: white;
+}
+
